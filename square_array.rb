@@ -4,4 +4,6 @@ def square_array(array)
   new_numbers = []
   while x < y
     array[x]**2
+    x += 1
+  end
 end
