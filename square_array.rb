@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  x = 0
+  y= array.length - 1
+  new_numbers = []
+  while x < y
+    array[]
 end
